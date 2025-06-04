@@ -1,9 +1,13 @@
 # Engenharia de prompt
+
 ## Prompt 1: Receita de bolo de pão de queijo 
+
 ### gerar uma receita detalhada de um bolo de pão de queijo, incluindo ingredientes, modo de preparo e dicas.
+
 ### Prompt 
 - * Faça uma receita de bolo de pão de queijo. 
 - * saida esperada: receita com ingredientes, modo de preparo, tempo de forno e rendimento.
+
 ## Ingredientes
 * 2 xicaras de polvilho doce
 * 1 xicara de queijo parmesão ralado
