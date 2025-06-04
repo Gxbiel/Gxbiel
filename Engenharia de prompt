@@ -1,0 +1,53 @@
+# Engenharia de prompt
+## Prompt 1: Receita de bolo de pão de queijo 
+### gerar uma receita detalhada de um bolo de pão de queijo, incluindo ingredientes, modo de preparo e dicas.
+### Prompt 
+- * Faça uma receita de bolo de pão de queijo. 
+- * saida esperada: receita com ingredientes, modo de preparo, tempo de forno e rendimento.
+## Ingredientes
+* 2 xicaras de polvilho doce
+* 1 xicara de queijo parmesão ralado
+* 1 xicara de queijo minas padrão ralado (ou queijo coalho)
+* 3 ovos
+* 1/2 xicara de óleo ( pode se r de soja ou de girassol)
+* 1 xicara de leite
+* 1 colher de sopa de fermento em pó 
+* 1 colher (chá) de sal
+### Modo de Preparo
+* Pré-aqueça o forno : Aqueça o forno a 180°C e unte uma forma (de preferência com furo no meio) com óleo ou manteiga.
+* Bata os líquidos : No liquidificador, coloque os ovos, o leite e o óleo. Bata por cerca de 1 minuto até ficar homogêneo.
+*Adicione o polvilho : Junte o polvilho azedo aos poucos e bata até incorporar bem.
+* Incorpore os queijos : Adicione os queijos ralados (parmesão e minas ou mussarela) e bata rapidamente, apenas para mistura.
+* Ajuste o sal e o fermento : Prove a massa e, se necessário, adicione uma pitada de sal. Por último, frio o fermento em pó e delicadamente misturado com uma colher.
+* Asse : Devolva a massa na forma untada e leve ao forno pré-aquecido por cerca de 35 a 45 minutos, ou até que o bolo fique dourado e firme (faça o teste do palito: se sair limpo, está pronto).
+* Sirva : Deixe esfriar um pouco, desenforme e sirva de manhã ou em temperatura ambiente. Fica ótimo com café ou chá!
+### Dicas
+Você pode variar os queijos, usando queijo cheddar, meia cura ou outro de sua preferência.
+Para um sabor extra, adicione ervas como orégano ou manjericão à massa.
+## Prompt 2: suplementos para ganho de massa muscular
+### descrição 
+Gerar uma lista de suplementação.
+- * Entrada: Me de uma lista de suplementos para ganho de massa muscular.
+- * Saida esperada: **
+### Uma lista de suplementação
+* 1. Whey protein - fonte de proteina rapida.
+* 2. Creatina - Aumenta força e volume muscular.
+* 3. BCAA - Auxilia na recuperação muscular.
+* 4. Caseína : Proteína lenta, 20-40 g antes de dormir.
+* 5. Maltodextrina : Repõe energia, 30-50 g pós-treino.
+* 6. Glutamina : Recuperação e imunidade, 5-10 g/dia.
+* 7. HMB : Reduza a manipulação, 3 g/dia.
+* 8. L-Carnitina : Energia e recuperação, 1-3 g/dia.
+* 9. Ômega 3 : Anti-inflamatório, 1-3 g/dia.
+* 10. Beta-Alanina : Resistência, 2-5 g/dia.
+## prompt 3: Meu hamster não para de roer a gaiola, oque devo fazer? 
+- ** Entrada: ** Meu hamster não para de roer a gaiola, oque devo fazer? 
+- ** Saida:** 
+### Oque fazer quando o hamster não para de roer a gaiola e quais as motivaçoes para isso acontecer?
+- **Brinquedos para Roer**: Ofereça palitos de madeira seguros (como de macieira, sem químicos), brinquedos de pet shop para hamsters (de madeira ou minerais) ou rolos de papel higiênico/papelão limpo para desgastar os dentes, que crescem constantemente.  
+- **Tamanho da Gaiola**: Use uma gaiola de no mínimo 60 cm de comprimento x 40 cm de largura x 40 cm de altura; se possível, maior. Se o roer continuar, troque por um aquário de vidro ou terrário com boa ventilação para evitar barras.  
+- **Atividades e Enriquecimento**: Inclua uma roda de exercício (mínimo 20 cm de diâmetro para não curvar a coluna), túneis, pontes e esconderijos. Espalhe comida para estimular busca. Deixe-o explorar fora da gaiola por 15-30 minutos diários em área segura, sempre com supervisão.  
+- **Reduza o Estresse**: Posicione a gaiola em um local tranquilo, sem barulhos altos (TV, pessoas), luz solar direta ou correntes de ar. Respeite o hábito noturno/crepuscular do hamster, evitando acordá-lo durante o dia.  
+- **Consulte um Veterinário**: Se o roer for excessivo ou vier com apatia, perda de pelo ou agressividade, leve a um vet de roedores. Cheque dentes, saúde e dieta (ração para hamster, vegetais frescos, pouca fruta, sem excesso de açúcar).  
+- **Observe o Comportamento**: Note quando ele rói (noite, dia, após silêncio) para identificar gatilhos. Ajuste o ambiente gradualmente.  
+- **Riscos**: Roer barras pode quebrar dentes ou ferir a boca, então aja rápido para proteger seu hamster.
